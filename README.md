@@ -1,7 +1,7 @@
 # Beverages Inventory API
 
-**Student Name:** _[Your Name Here]_
-**Matric Number:** _[Your Matric Number Here]_
+**Student Name:** IDOR GOD'SWILL IYOLI
+**Matric Number:** 24/CSC/175
 **Assigned Inventory Type:** Beverages
 
 ## Project Description
